@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 3,
+        "time" : "2:00 pm",
+        "date" : "22-08-2024",
+        "amount" : "-50",
+        "place" : "jayanagar",
+        "balance" : "1044"
+    },
+    {
+        "id" : 1,
+        "time" : "12:00 pm",
+        "date" : "21-08-2024",
+        "amount" : "1000",
+        "place" : "hsr",
+        "balance" : "1094"
+    },
+    {
+        "id" : 4,
+        "time" : "7:00 am",
+        "date" : "21-08-2024",
+        "amount" : "-100",
+        "place" : "bansakari",
+        "balance" : "94"
+    },
+    {
+        "id" : 2,
+        "time" : "1:00 am",
+        "date" : "19-08-2024",
+        "amount" : "-256",
+        "place" : "electronic city",
+        "balance" : "194"
+    },
+    {
+        "id" : 7,
+        "time" : "2:00 pm",
+        "date" : "18-08-2024",
+        "amount" : "-50",
+        "place" : "jayanagar",
+        "balance" : "450"
+    },
+    {
+        "id" : 5,
+        "time" : "12:00 pm",
+        "date" : "2-08-2024",
+        "amount" : "-500",
+        "place" : "hsr",
+        "balance" : "500"
+    },
+    {
+        "id" : 6,
+        "time" : "6:00 pm",
+        "date" : "1-08-2024",
+        "amount" : "1000",
+        "place" : "koremagala",
+        "balance" : "1000"
+    }
+]
